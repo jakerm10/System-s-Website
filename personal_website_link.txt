@@ -1,0 +1,7 @@
+NOTE
+To get the website to work I had to rename files, hence why there is no submission folder.
+Please don't dock me points, as you can see via the repo history that it was at one point 
+named submission. 
+
+
+https://jakerm10.github.io/System-s-Website/
